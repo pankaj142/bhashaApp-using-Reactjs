@@ -16,7 +16,7 @@ Application to learn new language.
 
 # See App
 
-Heroku Link: NA
+Heroku Link: https://bhashaapp.herokuapp.com/
 
 # To start the app follow the commands on command prompt:
 
